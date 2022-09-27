@@ -1,5 +1,5 @@
-# monorepo-run
-Run scripts in monorepo with colors, streaming and separated panes
+# `monorepo-run-workspace`
+Run scripts in monorepo with colors, streaming and separated panes. A fork of <https://github.com/Akryum/monorepo-run>
 
 <p align="center">
   <img src="./mono-run.png" alt="Mono run screenshot">
@@ -69,7 +69,3 @@ In your `package.json`:
   }
 }
 ```
-
-## Sponsors
-
-[![sponsors logos](https://guillaume-chau.info/sponsors.png)](https://guillaume-chau.info/sponsors)

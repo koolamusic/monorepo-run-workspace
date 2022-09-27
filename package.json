@@ -1,6 +1,6 @@
 {
-  "name": "monorepo-run",
-  "version": "0.4.2",
+  "name": "monorepo-run-workspace",
+  "version": "0.4.3",
   "description": "Run scripts in monorepo with colors, streaming and separated panes",
   "main": "src/index.js",
   "bin": {
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akryum/monorepo-run.git"
+    "url": "git+https://github.com/koolamusic/monorepo-run-workspace.git"
   },
   "keywords": [
     "monorepo",
@@ -26,9 +26,9 @@
   "author": "Guillaume Chau <guillaume.b.chau@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Akryum/monorepo-run/issues"
+    "url": "https://github.com/koolamusic/monorepo-run-workspace/issues"
   },
-  "homepage": "https://github.com/Akryum/monorepo-run#readme",
+  "homepage": "https://github.com/koolamusic/monorepo-run-workspace#readme",
   "engines": {
     "node": ">=10"
   },
